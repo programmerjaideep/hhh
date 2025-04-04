@@ -1,0 +1,19 @@
+
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <g fill="none" stroke="#FFD700" stroke-width="1.5">
+    <path d="M0,0 C50,20 80,50 100,100 C120,150 150,180 200,200" />
+    <path d="M0,20 C40,35 65,60 80,100 C95,140 120,165 180,180" />
+    <path d="M20,0 C35,40 60,65 100,80 C140,95 165,120 180,180" />
+    
+    <!-- Decorative elements -->
+    <circle cx="30" cy="30" r="5" fill="#FFD700" opacity="0.6" />
+    <circle cx="60" cy="60" r="4" fill="#FFD700" opacity="0.5" />
+    <circle cx="90" cy="90" r="6" fill="#FFD700" opacity="0.4" />
+    <circle cx="120" cy="120" r="3" fill="#FFD700" opacity="0.5" />
+    <circle cx="150" cy="150" r="5" fill="#FFD700" opacity="0.6" />
+    
+    <!-- Floral patterns -->
+    <path d="M40,40 C45,35 50,35 55,40 C60,45 60,50 55,55 C50,60 45,60 40,55 C35,50 35,45 40,40 Z" fill="#FFD700" opacity="0.3" />
+    <path d="M140,140 C145,135 150,135 155,140 C160,145 160,150 155,155 C150,160 145,160 140,155 C135,150 135,145 140,140 Z" fill="#FFD700" opacity="0.3" />
+  </g>
+</svg>

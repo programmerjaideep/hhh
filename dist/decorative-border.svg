@@ -1,0 +1,38 @@
+
+<svg width="800" height="800" viewBox="0 0 800 800" xmlns="http://www.w3.org/2000/svg">
+  <rect x="50" y="50" width="700" height="700" fill="none" stroke="#FFD700" stroke-width="2" />
+  
+  <!-- Corner decorations -->
+  <g>
+    <!-- Top Left -->
+    <path d="M50,50 C80,80 120,50 150,80 C180,110 150,150 180,180" fill="none" stroke="#FFD700" stroke-width="1.5" />
+    <circle cx="100" cy="100" r="10" fill="#FFD700" opacity="0.5" />
+    
+    <!-- Top Right -->
+    <path d="M750,50 C720,80 680,50 650,80 C620,110 650,150 620,180" fill="none" stroke="#FFD700" stroke-width="1.5" />
+    <circle cx="700" cy="100" r="10" fill="#FFD700" opacity="0.5" />
+    
+    <!-- Bottom Left -->
+    <path d="M50,750 C80,720 120,750 150,720 C180,690 150,650 180,620" fill="none" stroke="#FFD700" stroke-width="1.5" />
+    <circle cx="100" cy="700" r="10" fill="#FFD700" opacity="0.5" />
+    
+    <!-- Bottom Right -->
+    <path d="M750,750 C720,720 680,750 650,720 C620,690 650,650 620,620" fill="none" stroke="#FFD700" stroke-width="1.5" />
+    <circle cx="700" cy="700" r="10" fill="#FFD700" opacity="0.5" />
+  </g>
+  
+  <!-- Border decorations -->
+  <g>
+    <!-- Top -->
+    <path d="M200,50 L250,80 L300,50 L350,80 L400,50 L450,80 L500,50 L550,80 L600,50" fill="none" stroke="#FFD700" stroke-width="1.5" />
+    
+    <!-- Bottom -->
+    <path d="M200,750 L250,720 L300,750 L350,720 L400,750 L450,720 L500,750 L550,720 L600,750" fill="none" stroke="#FFD700" stroke-width="1.5" />
+    
+    <!-- Left -->
+    <path d="M50,200 L80,250 L50,300 L80,350 L50,400 L80,450 L50,500 L80,550 L50,600" fill="none" stroke="#FFD700" stroke-width="1.5" />
+    
+    <!-- Right -->
+    <path d="M750,200 L720,250 L750,300 L720,350 L750,400 L720,450 L750,500 L720,550 L750,600" fill="none" stroke="#FFD700" stroke-width="1.5" />
+  </g>
+</svg>
